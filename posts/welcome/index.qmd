@@ -1,0 +1,11 @@
+---
+title: "I am Batman"
+author: "batwithdacat"
+date: "1970-02-19"
+categories: [vengeance]
+---
+
+The city remains safe under my presence......for I.....am BATMAN!
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
