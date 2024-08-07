@@ -2,7 +2,7 @@
 title: "എന്റെ പ്രതീക്ഷകൾ"
 author: "batwithdacat"
 date: "1970-02-19"
-categories: [tools of vengeance]
+categories: [thoughts]
 image: "thumbnail.jpg"
 ---
 # മിന്നൽ മുരളിയുടെ പ്രതീക്ഷകൾ
