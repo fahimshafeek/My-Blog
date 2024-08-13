@@ -1,0 +1,22 @@
+---
+title: "Laptop Ownership Update"
+author: "batwithdacat"
+date: "1970-02-19"
+categories: [thoughts]
+image: "thumbnail.jpeg"
+---
+# 1 Year Owner Ship Update of My PC
+
+Its been one hell of an year with my current (relatively-new) laptop. Introducing the Lenovo Ideapad Gaming 3.
+
+The specs on this beast is absolutely crazy. Boasting a Ryzen 7 7735HS CPU and an Nvidia RTX 4050 GPU, this bad boy could handle anything you throw at it with ease! Never once have i ever felt a hickup in my day to day activities, and for good reasons too. My hobbies include gaming, and gaming, and gaming, and maybe a bit of studies. 
+
+The 85W CPU and the 85W TGP GPU does a real great job at crunching away at heavy tasks. The thermals are kept within reasonable limits. Ive never yet faced an overheating issue with the laptop as of yet. The keyboard feels average, not disappointing, but not anything to write home about either. The battery charging performance is absolutely mind boggling. With up to 130W of total charge input (that I've seen), this thing charges upto a mark really quick. (I've once left it to charge for 15-20min at 22% and came too find it at 82% !!!)
+
+![](thumbnail.jpeg)
+
+## Improvements???
+
+The gross thermal limit could be improved. The laptop has a 125W peak power consumption. The RTX 4050 in this thing has left some perfomance on the table by being limited to just 85W of TGP instead of the 115W that Nvidia allows. The performance increase from 85W to 115W isnt huge, but it would be a welcome feature to have.
+The display is something I would consider a mild disappointment for a laptop of this price range. 45% NTSC coverage just doesn't cut it, in 2024. The brightness could be better too, maybe a 500nits screen up from the current 300nits one.
+Battery offering is 60Wh. Being an AMD machine, it does manage to squeeze out a somewhat reasonable battery life performance compared to the other heavy hitters in the industry, but a 90Wh battery would definitely seal the deal for most people who are always on the go.
