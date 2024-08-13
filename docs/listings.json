@@ -2,10 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/new_earphones/index.html",
+      "/posts/ownership_update/index.html",
       "/posts/post-with-code/index.html",
       "/posts/ente_pratheekshakal/index.html",
       "/posts/New_thoughts/index.html",
-      "/posts/ownership_update/index.html",
       "/posts/welcome/index.html"
     ]
   }
